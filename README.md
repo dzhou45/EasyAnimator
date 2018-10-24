@@ -3,6 +3,6 @@
 
 -GUI that responds to user input and changes the animation accordingly
 
--Activity log that keeps track of the last 8 inputs
+-Event log that keeps track of the last 11 inputs
 
 Code available upon request
